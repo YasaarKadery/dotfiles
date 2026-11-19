@@ -6,6 +6,7 @@ brew "git-delta"
 brew "fzf"
 brew "ripgrep"
 brew "fd"
+brew "neovim"
 brew "zsh-syntax-highlighting"
 brew "zsh-autosuggestions"
 

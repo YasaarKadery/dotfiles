@@ -25,6 +25,7 @@ link_file "$DOTFILES_DIR/git/.gitconfig"                "$HOME/.gitconfig"
 link_file "$DOTFILES_DIR/starship/.config/starship.toml" "$HOME/.config/starship.toml"
 link_file "$DOTFILES_DIR/bat/.config/bat/config"        "$HOME/.config/bat/config"
 link_file "$DOTFILES_DIR/ghostty/.config/ghostty/config" "$HOME/.config/ghostty/config"
+link_file "$DOTFILES_DIR/nvim/.config/nvim"              "$HOME/.config/nvim"
 
 echo ""
 echo "Done! Run 'brew bundle --file=$DOTFILES_DIR/Brewfile' to install packages, then restart your shell."

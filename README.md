@@ -8,6 +8,7 @@ Cross-platform Gruvbox Dark terminal and shell configuration for **macOS** and *
 - **Starship** (`starship/.config/starship.toml`) — Gruvbox Rainbow prompt preset
 - **Git** (`git/.gitconfig`) — `delta` pager with Gruvbox Dark syntax highlighting + line numbers
 - **Bat** (`bat/.config/bat/config`) — `gruvbox-dark` theme
+- **Neovim** (`nvim/.config/nvim`) — LazyVim with `gruvbox.nvim` (hard contrast, transparent background)
 - **Windows Terminal** (`windows-terminal/gruvbox.json`) — Matching Gruvbox Dark Hard scheme + Acrylic blur snippet for WSL2
 - **Brewfile** — Installs all CLI tools on macOS & Linux/WSL2 (plus Ghostty & Nerd Font on macOS)
 
