@@ -9,6 +9,11 @@ elif [[ -x /home/linuxbrew/.linuxbrew/bin/brew ]]; then
   eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"
 fi
 
+# Aliases 
+alias gs="git status"
+alias gcm="git commit -m"
+alias nvz="nvim ~/.zshrc"
+alias scz="source ~/.zshrc"
 # Enable native terminal colors
 export CLICOLOR=1
 
