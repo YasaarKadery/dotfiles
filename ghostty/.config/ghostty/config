@@ -4,6 +4,9 @@ font-thicken = true
 adjust-cell-height = 15%
 window-colorspace = display-p3
 
+# Restore windows/tabs on relaunch (macOS)
+window-save-state = always
+
 # Frosted glass (falls back to standard blur on Linux; try `20` or `macos-glass-clear` on macOS)
 background-opacity = 0.88
 background-blur = macos-glass-regular

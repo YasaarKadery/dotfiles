@@ -4,7 +4,7 @@ return {
     priority = 1000,
     opts = {
       contrast = "hard",
-      transparent = true,
+      transparent_mode = true,
     },
   },
   {
